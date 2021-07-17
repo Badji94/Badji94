@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Badji94
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning to make web site
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning to make web sit
