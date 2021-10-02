@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Badji94
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning to make web sit
+- 🌱 I’m currently learning Git and GitHub
+- Lookin forward to learn more...
